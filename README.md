@@ -17,3 +17,10 @@ This is a browser-based posture monitoring app powered by a Teachable Machine po
 1. Open a terminal and navigate to the project folder:
    ```bash
    cd path/to/project
+   
+### Option 2: VS Code Live Server
+1-Open the project folder in VS Code.
+
+2- Right-click on index.html and choose "Open with Live Server".
+
+Your browser will launch the app automatically.
